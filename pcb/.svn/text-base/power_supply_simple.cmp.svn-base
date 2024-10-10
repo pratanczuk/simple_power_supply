@@ -1,0 +1,94 @@
+Cmp-Mod V01 Created by CvPCB (2011-07-08 BZR 3044)-stable date = 2011-12-27 23:43:50
+
+BeginCmp
+TimeStamp = /4EB2D493;
+Reference = 10uh1;
+ValeurCmp = FILTER;
+IdModule  = SM1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DDC1F19;
+Reference = C1;
+ValeurCmp = 10_uf;
+IdModule  = c_tant_C;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DDC1F29;
+Reference = C2;
+ValeurCmp = 22uf;
+IdModule  = c_tant_C;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DED287E;
+Reference = C3;
+ValeurCmp = 100nf;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EF9909D;
+Reference = D1;
+ValeurCmp = MBRS130;
+IdModule  = SM1812E;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DED253F;
+Reference = D2;
+ValeurCmp = Power_LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EF99612;
+Reference = K1;
+ValeurCmp = VCC/GND/+5v;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EF9EEA3;
+Reference = P1;
+ValeurCmp = Whole;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EF9EEE3;
+Reference = P2;
+ValeurCmp = Whole;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EF9EECC;
+Reference = P3;
+ValeurCmp = Whole;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = /4EF9EED7;
+Reference = P4;
+ValeurCmp = Whole;
+IdModule  = PINTST;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DED2592;
+Reference = R5;
+ValeurCmp = 220;
+IdModule  = c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DDC1DAA;
+Reference = U4;
+ValeurCmp = LM7805;
+IdModule  = d-pak;
+EndCmp
+
+EndListe

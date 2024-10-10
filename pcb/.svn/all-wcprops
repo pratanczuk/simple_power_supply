@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/251/trunk/projects/power_supply_simple/pcb
+END
+power_supply_simple.lib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/182/trunk/projects/power_supply_simple/pcb/power_supply_simple.lib
+END
+power_supply_simple-cache.lib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/182/trunk/projects/power_supply_simple/pcb/power_supply_simple-cache.lib
+END
+power_supply_simple.brd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/251/trunk/projects/power_supply_simple/pcb/power_supply_simple.brd
+END
+$savepcb.brd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/181/trunk/projects/power_supply_simple/pcb/$savepcb.brd
+END
+power_supply_simple.sch
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/182/trunk/projects/power_supply_simple/pcb/power_supply_simple.sch
+END
+power_supply_simple.cmp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/181/trunk/projects/power_supply_simple/pcb/power_supply_simple.cmp
+END
+power_supply_simple.mod
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/250/trunk/projects/power_supply_simple/pcb/power_supply_simple.mod
+END
+d-pak.lib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/181/trunk/projects/power_supply_simple/pcb/d-pak.lib
+END
+power_supply_simple.net
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/182/trunk/projects/power_supply_simple/pcb/power_supply_simple.net
+END
+d-pak.mod
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/176/trunk/projects/power_supply_simple/pcb/d-pak.mod
+END
+w_smd_cap.mod
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/180/trunk/projects/power_supply_simple/pcb/w_smd_cap.mod
+END
+power_supply_simple.bak
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/182/trunk/projects/power_supply_simple/pcb/power_supply_simple.bak
+END
+power_supply_simple-cache.bak
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/182/trunk/projects/power_supply_simple/pcb/power_supply_simple-cache.bak
+END
+power_supply_simple.000
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/251/trunk/projects/power_supply_simple/pcb/power_supply_simple.000
+END
+power_supply_simple.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/182/trunk/projects/power_supply_simple/pcb/power_supply_simple.pro
+END

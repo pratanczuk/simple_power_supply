@@ -1,0 +1,123 @@
+# EESchema Netlist Version 1.1 created  2011-12-28 01:17:13
+(
+ ( /4EFA4DDD $noname  U4 D-PACK_LM7805 {Lib=D-PACK_LM7805}
+  (    1 N-000002 )
+  (    2 GND )
+  (    3 N-000004 )
+ )
+ ( /4EF9EEE3 $noname  P2 Whole {Lib=CONN_1}
+  (    1 GND )
+ )
+ ( /4EF9EED7 $noname  P4 Whole {Lib=CONN_1}
+  (    1 GND )
+ )
+ ( /4EF9EECC $noname  P3 Whole {Lib=CONN_1}
+  (    1 GND )
+ )
+ ( /4EF9EEA3 $noname  P1 Whole {Lib=CONN_1}
+  (    1 GND )
+ )
+ ( /4EF99612 $noname  K1 VCC/GND/+5v {Lib=CONN_3}
+  (    1 VCC )
+  (    2 GND )
+  (    3 +5V )
+ )
+ ( /4EF9909D $noname  D1 MBRS130 {Lib=DIODE}
+  (    1 VCC )
+  (    2 N-000002 )
+ )
+ ( /4EB2D493 $noname  10uh1 FILTER {Lib=FILTER}
+  (    1 +5V )
+  (    2 N-000004 )
+ )
+ ( /4DED287E $noname  C3 100nf {Lib=C}
+  (    1 N-000004 )
+  (    2 GND )
+ )
+ ( /4DED2592 $noname  R5 220 {Lib=R}
+  (    1 N-000004 )
+  (    2 N-000003 )
+ )
+ ( /4DED253F $noname  D2 Power_LED {Lib=LED}
+  (    1 N-000003 )
+  (    2 GND )
+ )
+ ( /4DDC1F29 $noname  C2 22uf {Lib=CAPAPOL}
+  (    1 N-000004 )
+  (    2 GND )
+ )
+ ( /4DDC1F19 $noname  C1 10_uf {Lib=CAPAPOL}
+  (    1 N-000002 )
+  (    2 GND )
+ )
+)
+*
+{ Allowed footprints by component:
+$component D1
+ D?
+ S*
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component D2
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component C2
+ CP*
+ SM*
+$endlist
+$component C1
+ CP*
+ SM*
+$endlist
+$endfootprintlist
+}
+{ Pin List by Nets
+Net 1 "GND" "GND"
+ C1 2
+ C2 2
+ D2 2
+ C3 2
+ K1 2
+ P1 1
+ P3 1
+ P4 1
+ P2 1
+ U4 2
+Net 2 "" ""
+ U4 1
+ D1 2
+ C1 1
+Net 3 "" ""
+ R5 2
+ D2 1
+Net 4 "" ""
+ 10uh1 2
+ C3 1
+ R5 1
+ C2 1
+ U4 3
+Net 5 "+5V" "+5V"
+ K1 3
+ 10uh1 1
+Net 6 "VCC" "VCC"
+ D1 1
+ K1 1
+}
+#End
